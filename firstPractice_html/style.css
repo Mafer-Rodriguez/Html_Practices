@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #e797c3;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+.mainContainer{
+    color: rgb(89, 89, 190);
+    font-family: cursive;
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
+.text{
+    font: bold 50px/o.5 cursive;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-shadow: 0 5px 0 #828485;
+    text-align: center;
+    font-size: 30px;
+
+}
+.inner-container{
+    border: 3px solid black;
+    margin: 10px 5px 10px 5px  ;
+    background-color: rgb(125, 125, 233);
+}
